@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2018 yuzu Emulator Project
+SPDX-FileCopyrightText: 2018 muzu Emulator Project
 SPDX-License-Identifier: GPL-2.0-or-later
 -->
 
@@ -11,7 +11,7 @@ SPDX-License-Identifier: GPL-2.0-or-later
   <br>
 </h1>
 
-<h4 align="center"><b>yuzu</b> is the world's most popular, open-source, Nintendo Switch emulator — started by the creators of <a href="https://citra-emu.org" target="_blank">Citra</a>.
+<h4 align="center"><b>muzu</b> is the world's most popular, open-source, Nintendo Switch emulator — started by the creators of <a href="https://citra-emu.org" target="_blank">Citra</a>.
 <br>
 It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
 </h4>
@@ -20,10 +20,6 @@ It is written in C++ with portability in mind, and we actively maintain builds f
     <a href="https://dev.azure.com/yuzu-emu/yuzu/">
         <img src="https://dev.azure.com/yuzu-emu/yuzu/_apis/build/status/yuzu%20mainline?branchName=master"
             alt="Azure Mainline CI Build Status">
-    </a>
-    <a href="https://discord.com/invite/u77vRWY">
-        <img src="https://img.shields.io/discord/398318088170242053?color=5865F2&label=yuzu&logo=discord&logoColor=white"
-            alt="Discord">
     </a>
 </p>
 
